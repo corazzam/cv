@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Michael and I am a people manager, a clinical data expert and a digital reformer :boom: what does this combination mean? 
+  Hi, my name is Michael and I am a people manager, a clinical data expert and a digital reformer 💥 what does this combination mean? 
 
   Well, I have a background as a technical developer, with focus on automation, data science and digitalization of processes. 
   On top of that, I have reached the specialist role within Clinical Data Standards, which means I have extensive expertise in 
@@ -77,6 +77,7 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
+
           This project involved using Microsoft PowerApps and Power Automate to improve the 
           efficiency of a request management process. The project consisted of creating an interface 
           using PowerApps to gather necessary input from stakeholders, and using Power Automate to 
