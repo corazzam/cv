@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   What does this combination mean? 
 
   Well, I have a background as a technical developer, with focus on automation, data science and digitalization of processes. 
-  On top of that, I have reached the specialist role within Clinical Data Standards, which means I have extensive expertise in 
+  On top of that, I am a specialist in Clinical Data Standards, which means I have extensive expertise in 
   CDISC standards (SDTM, ODM, and controlled terminology). 
 
   More recently, my vision and attitude for leadership have made me become a people manager with 10+ direct reports. 
@@ -67,7 +67,7 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: Automation of department service using Microsoft PowerApps, Power Automate, Planner
+        title: Automation of department services using Microsoft PowerApps, Power Automate, Planner
         #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -78,19 +78,16 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          As a team leader, I automated a request management process using Microsoft 
-          PowerApps and Power Automate, resulting in greater efficiency and hundreds 
-          of successful requests managed, showcasing my ability to quickly identify 
-          and implement process improvements.
+          Improving service requests using process automation.
         description: | # this will include new lines to allow paragraphs
-          This project involved using Microsoft PowerApps and Power Automate to improve the 
-          efficiency of a request management process. The project consisted of creating an interface 
+          In this project I used Microsoft PowerApps and Power Automate to improve the 
+          efficiency of a service request  process. The project consisted of creating an interface 
           using PowerApps to gather necessary input from stakeholders, and using Power Automate to 
-          process the input and send emails to both the team in charge and the requester. 
+          process the input and send emails to both the team in charge of the request and the requester. 
           Additionally, a task management system was created using Microsoft Planner to make 
           it easier for the team to manage requests and provide an overview to management.
           
-          This project was initiated by me within one month of starting my role as team leader. 
+          This project was initiated by me within one month of starting my role as a team leader. 
           The automated process has since been used for hundreds of requests, 
           demonstrating my ability to quickly identify opportunities for 
           process improvement and automation to achieve greater efficiency.
@@ -110,7 +107,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I created a valuable Excel 
+          Excel 
           tool that fetched data from multiple databases, saving stakeholders time 
           and effort, and highlighting my technical skills and vision.
         description: | # this will include new lines to allow paragraphs
@@ -136,7 +133,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Applied Natural Language Processing to trial metadata.
+          Apply Natural Language Processing to trial metadata.
         description: | # this will include new lines to allow paragraphs
 
           I successfully applied Natural Language Processing techniques to 
@@ -144,8 +141,8 @@ content:
           clustering similar trials together, and using the results to predict data 
           collection standardization across trials. 
           
-          The project was done using R as a programming language, with Plumber 
-          used for the back-end while Shiny for the front-end.
+          The project was done using R, with Plumber 
+          used for the back-end and Shiny for the front-end.
 
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -181,17 +178,18 @@ content:
       Alongside my interests in clinical data and leadership, I enjoy:
       - Kayaking 
       - Swimming
-      - Running in all weather conditions (below it was snowing and the lake was frozen)
+      - Skiing
+      - Running in all weather conditions (below a picture of me running in snowing weather with a frozen lake in the background)
 
       ![Running](images/frozen_lake.JPG "Running frozen lake"){: width="550"}{: style="display:block; margin-left:auto; margin-right:auto"}
 
   - title: Videos and publications during my Ph.D. (completed in 2016)
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - [Talk at CHEETAH workshop Advanced Characterization for PV](https://www.youtube.com/watch?v=T0jaz2hBrQk)
-      - Article on the [MultiMeasurement Kit](https://www.linkedin.com/pulse/multi-measurement-kit-michael-corazza/?trackingId=0yN%2FNM4ITAiyeh3oQI3S7w%3D%3D)
-      - [List of publications](https://scholar.google.com/citations?user=MzfeJlAAAAAJ&hl=it)
+      Some links:
+      - [Video of talk](https://www.youtube.com/watch?v=T0jaz2hBrQk) at the CHEETAH workshop for Advanced Characterization of PV.
+      - Article on the [MultiMeasurement Kit](https://www.linkedin.com/pulse/multi-measurement-kit-michael-corazza/?trackingId=0yN%2FNM4ITAiyeh3oQI3S7w%3D%3D).
+      - [List of publications](https://scholar.google.com/citations?user=MzfeJlAAAAAJ&hl=it).
 
 # Footer
 footer_show_references: true
