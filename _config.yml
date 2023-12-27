@@ -95,7 +95,7 @@ content:
           demonstrating my ability to quickly identify opportunities for 
           process improvement and automation to achieve greater efficiency.
 
-          ![PowerAutomate](images/projects/powerAutomate.png "Automation with Power Automate"){: width="250" }
+          ![PowerAutomate](images/projects/powerAutomate.png "Automation with Power Automate"){: width="650"}{: style="display:block; margin-left:auto; margin-right:auto"}
 
       - layout: top-middle
         title: Centralized hub for clinical metadata based on VBA Excel
