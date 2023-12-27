@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Michael Corazza
-title: People Manager
+title: People Manager, Clinical Data Manager, Digital Reformer
 email: michael.corazza@gmail.com
 website: https://corazzam.github.io/cv/
 
@@ -48,15 +48,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Michael and I am a people manager, a clinical data expert and a digital reformer. What does this mean?
+  Hi, my name's Michael and I am a people manager, a clinical data expert and a digital reformer :boom: what does this combination mean? 
 
   Well, I have a background as a technical developer, with focus on automation, data science and digitalization of processes. 
   On top of that, I have reached the specialist role within Clinical Data Standards, which means I have extensive expertise in 
-  CDISC standards (SDTM, ODM, controlled terminology). 
+  CDISC standards (SDTM, ODM, and controlled terminology). 
 
-  More recently, my vision and talent for leadership have made me become a people manager with 10+ direct reports. 
+  More recently, my vision and attitude for leadership have made me become a people manager with 10+ direct reports. 
 
-  You can find my CV here, while here below you will find a few more details some of my projects.
+  You can find my CV here, while here below you will find a few more details of some of my projects.
 # I am most skilled in: <mark>digitalization</mark>, <mark>clinical data management</mark>, and <mark>leadership</mark>.
 
 content:
@@ -64,20 +64,30 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Automation of department service using Microsoft PowerApps, Power Automate, Planner
+        #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This project involved using Microsoft PowerApps and Power Automate to improve the 
+          efficiency of a request management process. The project consisted of creating an interface 
+          using PowerApps to gather necessary input from stakeholders, and using Power Automate to 
+          process the input and send emails to both the team in charge and the requester. 
+          Additionally, a task management system was created using Microsoft Planner to make 
+          it easier for the team to manage requests and provide an overview to management.
+          
+          This project was initiated by me within one month of starting my role as team leader. 
+          The automated process has since been used for hundreds of requests, 
+          demonstrating my ability to quickly identify opportunities for 
+          process improvement and automation to achieve greater efficiency.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
