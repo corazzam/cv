@@ -65,66 +65,63 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Automation of department service using Microsoft PowerApps, Power Automate, Planner
+        - title: Automation of department service using Microsoft PowerApps, Power Automate, Planner
         #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
+          additional_links:
           #- title:  sproogen/modern-resume-theme
           #  icon: fab fa-github
           #  url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          As a team leader, I automated a request management process using Microsoft 
-          PowerApps and Power Automate, resulting in greater efficiency and hundreds 
-          of successful requests managed, showcasing my ability to quickly identify 
-          and implement process improvements.
-        description: | # this will include new lines to allow paragraphs
+          quote: >
+            As a team leader, I automated a request management process using Microsoft 
+            PowerApps and Power Automate, resulting in greater efficiency and hundreds 
+            of successful requests managed, showcasing my ability to quickly identify 
+            and implement process improvements.
+          description: | # this will include new lines to allow paragraphs
 
-          This project involved using Microsoft PowerApps and Power Automate to improve the 
-          efficiency of a request management process. The project consisted of creating an interface 
-          using PowerApps to gather necessary input from stakeholders, and using Power Automate to 
-          process the input and send emails to both the team in charge and the requester. 
-          Additionally, a task management system was created using Microsoft Planner to make 
-          it easier for the team to manage requests and provide an overview to management.
-          
-          This project was initiated by me within one month of starting my role as team leader. 
-          The automated process has since been used for hundreds of requests, 
-          demonstrating my ability to quickly identify opportunities for 
-          process improvement and automation to achieve greater efficiency.
+            This project involved using Microsoft PowerApps and Power Automate to improve the 
+            efficiency of a request management process. The project consisted of creating an interface 
+            using PowerApps to gather necessary input from stakeholders, and using Power Automate to 
+            process the input and send emails to both the team in charge and the requester. 
+            Additionally, a task management system was created using Microsoft Planner to make 
+            it easier for the team to manage requests and provide an overview to management.
+            
+            This project was initiated by me within one month of starting my role as team leader. 
+            The automated process has since been used for hundreds of requests, 
+            demonstrating my ability to quickly identify opportunities for 
+            process improvement and automation to achieve greater efficiency.
 
-
-    content:
-      - layout: top-middle
-        title: Centralized hub for clinical metadata based on VBA Excel
+        - title: Centralized hub for clinical metadata based on VBA Excel
         #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
+          additional_links:
           #- title:  sproogen/modern-resume-theme
           #  icon: fab fa-github
           #  url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          As a team leader, I automated a request management process using Microsoft 
-          PowerApps and Power Automate, resulting in greater efficiency and hundreds 
-          of successful requests managed, showcasing my ability to quickly identify 
-          and implement process improvements.
-        description: | # this will include new lines to allow paragraphs
+          quote: >
+            As a team leader, I automated a request management process using Microsoft 
+            PowerApps and Power Automate, resulting in greater efficiency and hundreds 
+            of successful requests managed, showcasing my ability to quickly identify 
+            and implement process improvements.
+          description: | # this will include new lines to allow paragraphs
 
-          This project involved using Microsoft PowerApps and Power Automate to improve the 
-          efficiency of a request management process. The project consisted of creating an interface 
-          using PowerApps to gather necessary input from stakeholders, and using Power Automate to 
-          process the input and send emails to both the team in charge and the requester. 
-          Additionally, a task management system was created using Microsoft Planner to make 
-          it easier for the team to manage requests and provide an overview to management.
-          
-          This project was initiated by me within one month of starting my role as team leader. 
-          The automated process has since been used for hundreds of requests, 
-          demonstrating my ability to quickly identify opportunities for 
-          process improvement and automation to achieve greater efficiency.
+            This project involved using Microsoft PowerApps and Power Automate to improve the 
+            efficiency of a request management process. The project consisted of creating an interface 
+            using PowerApps to gather necessary input from stakeholders, and using Power Automate to 
+            process the input and send emails to both the team in charge and the requester. 
+            Additionally, a task management system was created using Microsoft Planner to make 
+            it easier for the team to manage requests and provide an overview to management.
+            
+            This project was initiated by me within one month of starting my role as team leader. 
+            The automated process has since been used for hundreds of requests, 
+            demonstrating my ability to quickly identify opportunities for 
+            process improvement and automation to achieve greater efficiency.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
