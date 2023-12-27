@@ -59,7 +59,7 @@ CDISC standards (SDTM, ODM, controlled terminology).
 
 More recently, my vision and talent for leadership have made me become a people manager with 10+ direct reports. 
 
-
+You can find my CV here, while here below you will find a few more details some of my projects.
 
  # I am most skilled in: <mark>digitalization</mark>, <mark>clinical data management</mark>, and <mark>leadership</mark>.
 
@@ -96,6 +96,41 @@ They also take responsibility for their actions and decisions,
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+    - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
+        - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -136,6 +171,21 @@ They also take responsibility for their actions and decisions,
 
       Look at this cool image  
       ![Trees](images/landscape-trees.jpg "Trees")
+
+  - title: Videos and publications during my Ph.D.
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - [Talk at ISOS conference]()
+      - [Talk at ]
+      - Article on Multi Measurement kit
+      - List of publications
+
+
+
+
+
+
 
 # Footer
 footer_show_references: true
