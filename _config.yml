@@ -134,17 +134,16 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I created a valuable Excel 
-          tool that fetched data from multiple databases, saving stakeholders time 
-          and effort, and highlighting my technical skills and vision.
+          Applied Natural Language Processing to trial metadata.
         description: | # this will include new lines to allow paragraphs
-          This project involved writing SQL scripts to extract data from multiple 
-          databases and displaying the extracted data in a user-friendly and filterable Excel tool, 
-          utilizing both VBA and SQL. The tool proved to be highly successful, 
-          with over 100 end-users across various stakeholders using it for more than five years. 
+
+          I successfully applied Natural Language Processing techniques to 
+          various trial metadata, identifying similarities across trials, 
+          clustering similar trials together, and using the results to predict data 
+          collection standardization across trials. 
           
-          The popularity and longevity of the tool demonstrate my technical 
-          skills and ability to create solutions that meet the needs of a wide range of end-users.
+          The project was done using R as a programming language, with Plumber 
+          used for the back-end while Shiny for the front-end.
 
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -177,23 +176,20 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in clinical data and leadership, I enjoy:
+      - Kayaking 
+      - Swimming
+      - Running in all weather conditions (below it was snowing and the lake was frozen)
 
-      Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
+      ![Running](images/frozen_lake.jpg "Running frozen lake")
 
-  - title: Videos and publications during my Ph.D.
+  - title: Videos and publications during my Ph.D. (completed in 2016)
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - [Talk at ISOS conference]()
-      - [Talk at ]
-      - Article on Multi Measurement kit
-      - List of publications
+      - [Talk at CHEETAH workshop Advanced Characterization for PV](https://www.youtube.com/watch?v=T0jaz2hBrQk)
+      - Article on the [MultiMeasurement Kit](https://www.linkedin.com/pulse/multi-measurement-kit-michael-corazza/?trackingId=0yN%2FNM4ITAiyeh3oQI3S7w%3D%3D)
+      - [List of publications](https://scholar.google.com/citations?user=MzfeJlAAAAAJ&hl=it)
 
 # Footer
 footer_show_references: true
