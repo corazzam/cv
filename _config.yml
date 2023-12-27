@@ -30,7 +30,7 @@ linkedin_username: corazzam
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
- additional_links:
+additional_links:
 - title: Subscribe
   icon: fas fa-globe
   url: https://forms.office.com/r/FsWPHjCftm
