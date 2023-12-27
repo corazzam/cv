@@ -32,7 +32,7 @@ linkedin_username: corazzam
 # Additional icon links
 additional_links:
 - title: Subscribe
-  icon: fas fa-globe
+  icon: fas fa-solid fa-bell
   url: https://forms.office.com/r/FsWPHjCftm
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -48,17 +48,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Hi, my name's Michael and I am a people manager, a clinical data expert and a digital reformer. What does this mean?
+  Hi, my name's Michael and I am a people manager, a clinical data expert and a digital reformer. What does this mean?
 
-Well, I have a background as a technical developer, with focus on automation, data science and digitalization of processes.
+  Well, I have a background as a technical developer, with focus on automation, data science and digitalization of processes.
 On top of that, I have reached the specialist role within Clinical Data Standards, which means I have extensive expertise in 
 CDISC standards (SDTM, ODM, controlled terminology). 
 
-More recently, my vision and talent for leadership have made me become a people manager with 10+ direct reports. 
+  More recently, my vision and talent for leadership have made me become a people manager with 10+ direct reports. 
 
-You can find my CV here, while here below you will find a few more details some of my projects.
-
- # I am most skilled in: <mark>digitalization</mark>, <mark>clinical data management</mark>, and <mark>leadership</mark>.
+  You can find my CV here, while here below you will find a few more details some of my projects.
+# I am most skilled in: <mark>digitalization</mark>, <mark>clinical data management</mark>, and <mark>leadership</mark>.
 
 content:
   - title: Projects # Title for the section
