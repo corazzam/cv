@@ -48,9 +48,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Michael and I am people manager. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+Hi, my name's Michael and I am a people manager, a clinical data expert and a digital reformer. What does this mean?
 
-  I am most skilled in: <mark>digitalization</mark>, <mark>clinical data</mark>, and <mark>leadership</mark>.
+Well, I have a background as a technical developer, with focus on automation, data science and digitalization of processes.
+On top of that, I have reached the specialist role within Clinical Data Standards, which means I have extensive expertise in 
+CDISC standards (SDTM, ODM, controlled terminology). 
+
+More recently, my vision and talent for leadership have made me become a people manager with 10+ direct reports. 
+
+You can find my CV here, while here below you will find a few more details some of my projects.
+
+ # I am most skilled in: <mark>digitalization</mark>, <mark>clinical data management</mark>, and <mark>leadership</mark>.
 
 content:
   - title: Projects # Title for the section
