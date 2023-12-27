@@ -48,7 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Michael and I am a people manager, a clinical data expert and a digital reformer 💥 what does this combination mean? 
+  Hi, my name is Michael and I am a people manager, a clinical data expert and a digital reformer 💥 
+  What does this combination mean? 
 
   Well, I have a background as a technical developer, with focus on automation, data science and digitalization of processes. 
   On top of that, I have reached the specialist role within Clinical Data Standards, which means I have extensive expertise in 
@@ -74,8 +75,43 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: >
+          As a team leader, I automated a request management process using Microsoft 
+          PowerApps and Power Automate, resulting in greater efficiency and hundreds 
+          of successful requests managed, showcasing my ability to quickly identify 
+          and implement process improvements.
+        description: | # this will include new lines to allow paragraphs
+
+          This project involved using Microsoft PowerApps and Power Automate to improve the 
+          efficiency of a request management process. The project consisted of creating an interface 
+          using PowerApps to gather necessary input from stakeholders, and using Power Automate to 
+          process the input and send emails to both the team in charge and the requester. 
+          Additionally, a task management system was created using Microsoft Planner to make 
+          it easier for the team to manage requests and provide an overview to management.
+          
+          This project was initiated by me within one month of starting my role as team leader. 
+          The automated process has since been used for hundreds of requests, 
+          demonstrating my ability to quickly identify opportunities for 
+          process improvement and automation to achieve greater efficiency.
+
+
+    content:
+      - layout: top-middle
+        title: Centralized hub for clinical metadata based on VBA Excel
+        #link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          As a team leader, I automated a request management process using Microsoft 
+          PowerApps and Power Automate, resulting in greater efficiency and hundreds 
+          of successful requests managed, showcasing my ability to quickly identify 
+          and implement process improvements.
         description: | # this will include new lines to allow paragraphs
 
           This project involved using Microsoft PowerApps and Power Automate to improve the 
@@ -128,7 +164,16 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/landscape-trees.jpg "Trees")
+
+  - title: Videos and publications during my Ph.D.
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - [Talk at ISOS conference]()
+      - [Talk at ]
+      - Article on Multi Measurement kit
+      - List of publications
 
 # Footer
 footer_show_references: true
