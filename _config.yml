@@ -94,27 +94,27 @@ content:
           demonstrating my ability to quickly identify opportunities for 
           process improvement and automation to achieve greater efficiency.
 
-        # - title: Centralized hub for clinical metadata based on VBA Excel
-        # #link: github.com/sproogen
-        # # link_text: Project Website
-        #   additional_links:
-        #   #- title:  sproogen/modern-resume-theme
-        #   #  icon: fab fa-github
-        #   #  url: github.com/sproogen/modern-resume-theme
-        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   #   icon: fab fa-github
-        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #   quote: >
-        #     As a team leader, I automated a request management process using Microsoft 
-        #     PowerApps and Power Automate, resulting in greater efficiency and hundreds 
-        #     of successful requests managed, showcasing my ability to quickly identify 
-        #     and implement process improvements.
-        #   description: | # this will include new lines to allow paragraphs
+      - layout: top-middle
+        title: Centralized hub for clinical metadata based on VBA Excel
+        #link: github.com/sproogen
+        # link_text: Project Website
+          additional_links:
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+            The author's successful SQL and VBA project created a valuable Excel 
+            tool that fetched data from multiple databases, saving stakeholders time 
+            and effort, and highlighting their technical skills and vision.
+          description: | # this will include new lines to allow paragraphs
 
-        #     This project involved building SQL scripts to extract data from multiple 
-        #     databases and displaying the extracted data in a user-friendly and filterable Excel tool, 
-        #     utilizing both VBA and SQL. The tool proved to be highly successful, 
-        #     with over 100 stakeholders using it for more than five years. The popularity and longevity of the tool demonstrate the speaker's technical skills and ability to create solutions that meet the needs of a wide range of stakeholders.
+            This project involved building SQL scripts to extract data from multiple 
+            databases and displaying the extracted data in a user-friendly and filterable Excel tool, 
+            utilizing both VBA and SQL. The tool proved to be highly successful, 
+            with over 100 stakeholders using it for more than five years. The popularity and longevity of the tool demonstrate the speaker's technical skills and ability to create solutions that meet the needs of a wide range of stakeholders.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
