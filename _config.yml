@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Michael Corazza
-title: People Manager
+title: People Manager, Clinical Data Manager, Digital Reformer
 email: michael.corazza@gmail.com
 website: https://corazzam.github.io/cv/
 
@@ -64,19 +64,20 @@ You can find my CV here, while here below you will find a few more details some 
  # I am most skilled in: <mark>digitalization</mark>, <mark>clinical data management</mark>, and <mark>leadership</mark>.
 
 content:
-  - layout: top-middle
-  title: Leadership
-  description: As a people leader, I ensure the team is motivated and competent by providing feedback and building trust. 
+#   - layout: top-middle
+#   title: Leadership
+#   description: As a people leader, I ensure the team is motivated and competent by providing feedback and building trust. 
 
-I believe a true leader inspires and motivates their team to achieve their goals. 
-They lead by example and are always willing to lend a helping hand. 
-A true leader listens to their team members, encourages their ideas, 
-and provides them with opportunities to grow and develop. 
-They also take responsibility for their actions and decisions,
- and are always looking for ways to improve themselves and their team.
+# I believe a true leader inspires and motivates their team to achieve their goals. 
+# They lead by example and are always willing to lend a helping hand. 
+# A true leader listens to their team members, encourages their ideas, 
+# and provides them with opportunities to grow and develop. 
+# They also take responsibility for their actions and decisions,
+#  and are always looking for ways to improve themselves and their team.
 
-  quote: > 
-"It is the strong leader that allows people to see when they are weak." cit. Simon Sinek.
+#   quote: > 
+# "It is the strong leader that allows people to see when they are weak." cit. Simon Sinek.
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
